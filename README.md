@@ -13,9 +13,10 @@
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
-- PHP,Laravel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Frontend Development ✍️
-- HTML,CSS
+- Frontend Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- PHP, Laravel, C#, MVC✍️
+- MySQL, SQLServer✍️
+- HTML,CSS✍️
 
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
