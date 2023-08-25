@@ -24,8 +24,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![LARAVEL](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=laravel)
 
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
