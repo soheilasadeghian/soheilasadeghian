@@ -3,8 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Soheila Sadeghian</h1>
-<h3>I am a Web Developer with 6+ years of experience developing applications for the web.</h3>
-<h3>For me it will be a pleasure to be part of your work team.</h3>
+<h3>I am a Web Developer with 6+ years of experience developing applications for the web.For me it will be a pleasure to be part of your work team.</h3>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-soheilasadeghian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soheilasadeghian/)](https://www.linkedin.com/in/soheilasadeghian/)
