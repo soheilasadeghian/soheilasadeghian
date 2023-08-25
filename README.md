@@ -3,14 +3,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Soheila Sadeghian</h1>
-<h3 align="center">I am a Web Developer with 6+ years of experience developing applications for the web.</h3>
-<h3 align="center">For me it will be a pleasure to be part of your work team.</h3>
+<h3>I am a Web Developer with 6+ years of experience developing applications for the web.</h3>
+<h3>For me it will be a pleasure to be part of your work team.</h3>
 
-
-![age](https://img.shields.io/badge/age-34-blue)
-![focus](https://img.shields.io/badge/focus-Frontend-brightgreen)
-![living](https://img.shields.io/badge/living-Iran-3c9)
-![visitors](https://visitor-badge.herokuapp.com/badge?page_id=windard.github.profile)
 
 [![Linkedin Badge](https://img.shields.io/badge/-soheilasadeghian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soheilasadeghian/)](https://www.linkedin.com/in/soheilasadeghian/)
 [![Gmail Badge](https://img.shields.io/badge/-soheila.sadeghian89@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soheila.sadeghian89@gmail.com)](mailto:soheila.sadeghian89@gmail.com) 
@@ -49,3 +44,7 @@
 </div>
 
 
+
+![age](https://img.shields.io/badge/age-34-blue)
+![focus](https://img.shields.io/badge/focus-Frontend-brightgreen)
+![living](https://img.shields.io/badge/living-Iran-3c9)
