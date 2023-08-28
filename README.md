@@ -10,8 +10,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-soheila.sadeghian89@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soheila.sadeghian89@gmail.com)](mailto:soheila.sadeghian89@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://soheilasadeghian.github.io/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 - 👨‍💻 All of my projects are available at https://github.com/soheilasadeghian
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
 - Frontend Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
