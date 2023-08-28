@@ -11,6 +11,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://soheilasadeghian.github.io/)
 - 👨‍💻 All of my projects are available at https://github.com/soheilasadeghian
+- 📫 How to reach me? Just mail me (soheila.sadeghian89@gmail.com)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
