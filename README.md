@@ -47,6 +47,6 @@
 
 
 
-![age](https://img.shields.io/badge/age-34-blue)
+![Birth](https://img.shields.io/badge/Birth-1989-blue)
 ![focus](https://img.shields.io/badge/focus-Frontend-brightgreen)
 ![living](https://img.shields.io/badge/living-Iran-3c9)
